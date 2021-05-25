@@ -1,6 +1,6 @@
-<h3 align="center">iOS Developer / Japan</h3>
+<h3 align="left">👨🏻‍💻iOS Developer / Japan</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔨languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiji127&show_icons=true&locale=en&layout=compact" alt="eiji127" /></p>
