@@ -3,11 +3,11 @@
 <h3 align="left">🔨languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
+![snake gif](https://github.com/Eiji127/Eiji127/blob/output/github-contribution-grid-snake.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiji127&show_icons=true&locale=en&layout=compact" alt="eiji127" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eiji127&show_icons=true&locale=en" alt="eiji127" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eiji127&" alt="eiji127" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiji127" alt="eiji127" /></a> </p>
 
